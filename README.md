@@ -9,7 +9,7 @@ A dedicated PC installation and configuration resource for Grand Theft Auto VI, 
 
 ![Platform](https://img.shields.io/badge/Platform-Windows_10%20%7C%2011-blue)
 ![Game](https://img.shields.io/badge/Game-Grand_Theft_Auto_VI-orange)
-![Version](https://img.shields.io/badge/PC_Release-Awaiting_Announcement-yellow)
+![Version](https://img.shields.io/badge/PC_Release-11.18.2026-yellow)
 
 ---
 
